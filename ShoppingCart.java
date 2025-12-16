@@ -99,3 +99,21 @@ public class Main {
             s.displaycart();
     }
     }
+
+//Output:
+ Products Details Successfully Added :Milk
+Products Details Successfully Added :Curd
+Products Details Successfully Added :Salt
+Product Details
+ProductId: 101  Product Name:Milk   Product Price: 10.0   Product Qty: 5
+ProductId: 102  Product Name:Curd   Product Price: 10.0   Product Qty: 5
+ProductId: 103  Product Name:Salt   Product Price: 15.0   Product Qty: 10
+Product Details
+ProductId: 101  Product Name:Milk   Product Price: 10.0   Product Qty: 1
+ProductId: 102  Product Name:Curd   Product Price: 10.0   Product Qty: 1
+ProductId: 103  Product Name:Salt   Product Price: 15.0   Product Qty: 10
+User Product details 
+ProductId: 101  Product Name:Milk   Product Price: 10.0   Product Qty: 4
+ProductId: 102  Product Name:Curd   Product Price: 10.0   Product Qty: 4
+____________________________
+TotalBill:80.0
