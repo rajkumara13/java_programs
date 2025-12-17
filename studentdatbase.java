@@ -71,7 +71,7 @@ public class Main {
 
 
 
-Output:
+//Output:
 
 Enter No of Student Details :
 2
