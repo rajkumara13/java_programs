@@ -44,3 +44,14 @@ class Main{
 }
 
 output:
+
+Addition : Enter 1 
+Subraction : Enter 2 
+Multiplication : Enter 3 
+Devision : Enter 4
+1
+Enter the Num1,Num2
+202
+204
+The Addition Value : 406
+
