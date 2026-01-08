@@ -5,7 +5,6 @@ class details{
     String productname;
     double price;
     int qty;
-
     public details(int productid, String productname, double price, int qty){
         this.productid=productid;
         this.productname=productname;
