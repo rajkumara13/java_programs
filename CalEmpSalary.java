@@ -3,7 +3,6 @@ class Employee{
     int EmpId;
     String Empname;
     double salary;
-
     void displayemp(){
         System.out.println("Emp Id :"+EmpId);
         System.out.println("Empname :"+Empname);
